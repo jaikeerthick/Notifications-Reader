@@ -6,7 +6,7 @@ Read all notifications in android using ```NotificationListenerService``` class.
 * When notifications removed
 * Rank is updated, etc 
 
-Check the full code : [ckick here](https://github.com/jaikeerthick/Notifications-Reader/tree/main/app/src/main/java/com/jaikeerthick/mynotifications)
+Check the full code : [click here](https://github.com/jaikeerthick/Notifications-Reader/tree/main/app/src/main/java/com/jaikeerthick/mynotifications)
 
 ### NotificationListenerService.java
 
