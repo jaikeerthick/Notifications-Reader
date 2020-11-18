@@ -7,6 +7,8 @@ Read all notifications in android using ```NotificationListenerService``` class.
 * Rank is updated, etc 
 
 Check the full code : [click here](https://github.com/jaikeerthick/Notifications-Reader/tree/main/app/src/main/java/com/jaikeerthick/mynotifications)
+### To Use
+click the menu icon in the top left corner of the Screen to open settings page and give required permission. Tht's all! Enjoy.
 
 ### NotificationListenerService.java
 
