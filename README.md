@@ -34,4 +34,4 @@ public class MyNotificationListener extends NotificationListenerService {
 }
 ```
 
-General for of the class looks like this
+General form of the class looks like this
