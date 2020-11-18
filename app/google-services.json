@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302778592061",
+    "firebase_url": "https://your Url",
+    "project_id": "your id",
+    "storage_bucket": "bucket link"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "id",
+        "android_client_info": {
+          "package_name": "com.packagename"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "id",
+          "client_type": type
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "id",
+              "client_type": type
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "version"
+}
