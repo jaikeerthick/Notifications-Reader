@@ -11,7 +11,7 @@ Check the full code : [click here](https://github.com/jaikeerthick/Notifications
 * click the menu icon in the top left corner of the Screen to open settings page and give required permission. Tht's all! Enjoy.
 * Replace the ```google-services.json``` file with your's.
 
-### NotificationListenerService.java
+### General Syntax: NotificationListenerService.java
 
 ```java
 public class MyNotificationListener extends NotificationListenerService {
